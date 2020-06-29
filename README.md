@@ -19,4 +19,6 @@ Set the visibility of your past posts one by one. Removal has not been test, but
 
 脚本运行时，建议将该页面放置前台，避免额外状况。
 
+想要速度更快，可以调整interval大小（默认为1秒），也可以同时开多个窗口处理不同月份下的微博。
+
 本脚本基于油猴脚本[“批量转换微博可见范围”](https://greasyfork.org/zh-TW/scripts/36902-%E6%89%B9%E9%87%8F%E8%BD%AC%E6%8D%A2%E5%BE%AE%E5%8D%9A%E4%B8%BA%E8%87%AA%E5%B7%B1%E5%8F%AF%E8%A7%81) 修改。原脚本已失效。
